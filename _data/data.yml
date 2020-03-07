@@ -1,0 +1,228 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Pan Wang
+    tagline: Associate Professor of Nanjing University of Posts&Telecommunications
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: wangpan@njupt.edu.cn
+    phone: 012 345 6789
+    website: panwang.github.com #do not add http://
+    linkedin: william08
+    github: runtrend08
+    gitlab:
+    bitbucket:
+    twitter: '@william08'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Chinese
+        level: Professional
+
+      - idiom: Japanese
+        level: Native
+
+    interests:
+      - item: Basketball
+        link:
+
+      - item: jogging
+        link:
+
+      - item: Cooking
+        link:
+
+career-profile:
+    title: Short Bio
+    summary: |
+      Pan Wang received his Ph.D. degree from the School of Computer, Nanjing University of Posts&
+      Telecommunications, Nanjing, China, in 2013. Dr. Wang was a visiting scholar in the ECE (Electrical 
+      Computer Engineering) Department, University of Dayton, OHIO, USA, from 2017 to 2018, 
+      worked with <a href="https://sites.google.com/a/udayton.edu/fye001/" target="_blank" rel="nofollow">Prof. Feng Ye</a>.
+      He is an Associate Professor of Nanjing University of Posts&Telecommunications (NJUPT). He served as the Co-chair
+      of CyberSciTech Congress 2020 wp&ss. He is also a reviewer of several IEEE journals, including IEEE Transactions
+      on Network and Service Management (TNSM), IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI), 
+      IEEE Internet of Things Journal, IEEE Access etc.
+
+      His current research interests include:
+
+      1) AI and networking (now Funded by NSF of China)
+        - Traffic Classification based on Deep Learning
+        - Traffic Generation based on Generative Adversarial Network (GAN)
+        - Network&Applications Performance Measurements (NPM&APM) 
+
+      2) Network Security
+        - Deep Packet Inspection (DPI)
+        - Man-in-the-Middle (MITM) Attack
+        - Anonymous Communications
+        - High-Speed Packet Capture
+
+      3) Data Science and Big Data
+        - Deep Learning and Machine Learning
+        - Big Data and Applications
+        - Internet User Behavior Analysis
+        - Recommendation System
+
+
+
+education:
+    - degree: Visiting Scholar in Computer Science
+      university: University of Dayton, OHIO, USA.
+      time: 2017 - 2018
+      details: |
+        Granted by Chinese Government to be a visiting scholar for UD in Ohio of USA from 
+        October of 2017 to April of 2018.
+
+    - degree: PHD in Computer Science
+      university: Nanjing University of Posts&Telecommunications, China.
+      time: 2006 - 2013
+      details: |
+        Long distance walk of PHD.
+
+    - degree: MSc in Computer Science
+      university: Nanjing University of Posts&Telecommunications, China.
+      time: 2001 - 2004
+      details: |
+        I have got postgraduate recommendation after get the bechelor degree.
+
+    - degree: BSc in Communications Engineering
+      university: Nanjing University of Posts&Telecommunications, China.
+      time: 1997 - 2001
+      details: |
+        My major is Electromagnetic field and Microwave.
+
+#experiences:
+#    - role: Lead Developer
+#      time: 2015 - Present
+ #     company: Startup Hubs, San Francisco
+  #    details: |
+   #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+   #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    #      - Bullet point
+     #     - Bullet point
+
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+
+publications:
+    title: Publications
+    intro: |
+      Here list all papers of our team since 2017.
+    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+
+      - title: "[Online] Pan Wang ; Feng Ye ; Xuejiao Chen, A Smart Home Gateway Platform for Data Collection and
+Awareness , IEEE Communications Magazine, 2018.9, 56(9):87~93" 
+        link: "#"
+        authors: 
+        conference: 
+
+      - title: "[Online] Pan Wang ; Feng Ye ; Xuejiao Chen; Yi Qian, DataNet: Deep Learning based Encrypted
+Network Traffic Classification in SDN Home Gateway , IEEE Access, 2018.9.27, 6:55380~55391"
+        link: "#"
+        authors: 
+        conference:  
+
+      - title: "[Online] Pan Wang ; Chen Xuejiao; Ye Feng; Sun Zhixin, A Survey of Techniques for Mobile Service Encrypted 
+      Traffic Classification Using Deep Learning , IEEE Access, 2019.1, 7: 54024~54033" 
+        link: "#"
+        authors: 
+        conference: 
+
+      - title: "[Online] Pan Wang ; Chen Xuejiao; Ye Feng; Sun Zhixin, A Smart Automated Signature Extraction
+Scheme for Mobile Phone Number in Human-Centered Smart Home Systems , IEEE Access, 2018.5.29, 6: 30483~30490" 
+        link: "#"
+        authors: 
+        conference: 
+
+      - title: "[Online] Pan Wang ; Xuejiao Chen ; Zhixin Sun ；Performance Modeling and Suitability Assessment 
+      of Data Center Based on Fog Computing in Smart Systems ；IEEE Access ；Year: 2018 , Volume: 6 ；Pages: 29587 - 29593 "
+        link: "#"
+        authors: 
+        conference: 
+
+
+
+      - title: "[Online] Pan Wang ; Xuejiao Chen ; Feng Ye ；Data Interpolation for Deep Learning based Encrypted Data 
+      Packet Classification ；2019 International Conference on Computing, Networking and Communications, ICNC 2019.04 "
+        link: "#"
+        authors: 
+        conference: 
+      
+
+      - title: "[Accepted] PacketCGAN: Exploratory Study of Class Imbalance for Encrypted Traffic Classification Using 
+      CGAN, Pan Wang, Shuhang Li, Feng Ye, Zixuan Wang, Moxuan Zhang, ICC 2020 holding in Dublin, Ireland" 
+        link: "#"
+        authors: 
+        conference: 
+
+      - title: "[Online] FLOWGAN: Unbalanced network encrypted traffic identification method based on GAN
+      , Zixuan Wang, Pan Wang, 2019 International Symposium on Parallel and Distributed Processing with Applications
+      (ISPA), XiaMen, China"
+        link: "#"
+        authors: 
+        conference:  
+
+
+      - title: "[Online] Co-Hijacking Monitor: Collaborative Detecting and Locating Mechanism for HTTP Spectral Hijacking,
+       Pan Wang, Xuejiao Chen , Zhixin Sun, 2017 IEEE Cyber Science and Technology Congress, Orlando, USA" 
+        link: "#"
+        authors: 
+        conference: 
+
+      - title: "[Online] Chen, Xuejiao; Yu, Jiahui; Ye, Feng; Wang, Pan; A hierarchical approach to encrypted data packet 
+      classification in smart home gateways, IEEE 3rd Cyber Science and Technology Congress; p 46-53, October 26, 2018 Athens, Greece"
+        link: "#"
+        authors: 
+        conference:  
+
+
+
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
