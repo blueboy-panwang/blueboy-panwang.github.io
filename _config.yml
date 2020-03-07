@@ -3,7 +3,7 @@
 # Site Settings
 title: Pan Wang's HomePage
 url: 'http://webjeda.com'
-baseurl: '/panwang.github.io' #change it according to your repository name
+baseurl: '/blueboy-panwang.github.io' #change it according to your repository name
 description: Pan Wang's Personal Website about academic experience
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: berry # blue turquoise green berry orange ceramic
